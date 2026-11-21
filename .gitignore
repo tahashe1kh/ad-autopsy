@@ -11,3 +11,5 @@ frontend/dist/
 
 # Misc
 .DS_Store
+
+frontend/tsconfig.tsbuildinfo
